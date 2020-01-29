@@ -2,7 +2,7 @@
 Implementation of [Successive Convexification: A Superlinearly Convergent Algorithm for Non-convex Optimal Control Problems
 ](https://arxiv.org/abs/1804.06539) by Yuanqi Mao, Michael Szmuk and Behcet Acikmese
 
-Reqires `matplotlib`, `numpy`, `scipy` and `cvxpy`.
+Requires `matplotlib`, `numpy`, `scipy` and `cvxpy`.
 
 
 This framework provides an easy way to implement your own models.
